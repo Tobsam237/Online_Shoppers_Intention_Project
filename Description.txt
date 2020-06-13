@@ -1,0 +1,11 @@
+#To understand customers intention, we need to find patterns by 
+#1) data exploration
+#2) find features correlation wrt 1) revenue 2) bounce rate 3) exitrates
+#3) find effect of page value on customers too revenue
+#4) Also, visualize months wrt 1) revenue 2) bounce rate 3} exitrates
+#5) Does Operating System used have an effect on 1) revenue 2) bounce rate 3} exitrates
+#6) Does Browser used have an effect on 1) revenue 2) bounce rate 3} exitrate
+#7) Rank region based on 1) revenue 2) bounce rate 3} exit rate
+#8) Effect of weekend on 1) revenue 2) bounce rate 3} exit rate
+#9) Effect of visitortype on 1) revenue 2) bounce rate 3} exit rate
+#10) Finally, Predict revenue based off....  using several categorical ML models  logistics, SVM, RF, and NN 
